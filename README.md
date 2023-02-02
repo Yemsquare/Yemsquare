@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yemsquare
+- 👋 Hi, I’m @Yemsquare software Engineer
 - 👀 I’m interested in solving problems by developing Apps
 - 🌱 I’m currently learning Kotlin language for Android Apps
 - 💞️ I’m looking to collaborate on Android Application 
