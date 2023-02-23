@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yemsquare software Engineer
 - 👀 I’m interested in solving problems by developing Apps
-- 🌱 I’m currently learning Kotlin language for Android Apps
-- 💞️ I’m looking to collaborate on Android Application 
+- 🌱 I’m currently learning Python Flask Framework for backend development
+- 💞️ I’m looking to collaborate on Android Application or Web App
 - 📫 How to reach me is through my email ibiyemioluyemi@gmail.com
 
 <!---
